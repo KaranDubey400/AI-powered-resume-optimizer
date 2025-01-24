@@ -7,7 +7,7 @@ backcall==0.2.0
 beautifulsoup4==4.12.3
 bleach==6.1.0
 blinker==1.7.0
-blis==0.7.11
+blis==1.2.0
 cachetools==5.3.3
 catalogue==2.0.10
 certifi==2024.2.2
@@ -78,12 +78,12 @@ python-dateutil==2.9.0.post0
 python-docx==1.1.0
 python-dotenv==1.0.1
 pytz==2024.1
-pyzmq==26.2.2
+pyzmq==26.2.0
 referencing==0.34.0
 regex==2023.12.25
 requests==2.31.0
 rich==13.7.1
-rpds-py==0.18.0
+rpds-py==0.22.3
 scikit-learn==1.4.2
 scipy==1.13.0
 setuptools==75.8.0
@@ -101,7 +101,7 @@ stack-data==0.6.3
 streamlit==1.33.0
 streamlit-option-menu==0.4.0
 tenacity==9.0.0
-thinc==8.2.3
+thinc==9.1.1
 threadpoolctl==3.4.0
 tinycss2==1.2.1
 toml==0.10.2
