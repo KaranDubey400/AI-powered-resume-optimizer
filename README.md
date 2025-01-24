@@ -19,7 +19,7 @@ To use CareerCraft AI, follow these steps:
    
 4. Run the Streamlit app:
    
-   streamlit run streamlit_app.py
+   streamlit run main.py
    
 ## Usage
 
