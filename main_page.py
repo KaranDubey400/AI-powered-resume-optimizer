@@ -131,12 +131,12 @@ def authentication_page():
             st.session_state.signedout = True
             st.session_state.username = ''
             st.session_state.useremail = ''
-            st.experimental_rerun()
+            st.rerun()
 
         # Add a new button to go to the main app
         if st.button('Go to the App →'):
             st.session_state['page'] = 'main_app'
-            st.experimental_rerun()
+            st.rerun()
 
 
 
