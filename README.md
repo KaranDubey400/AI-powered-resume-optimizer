@@ -1,5 +1,4 @@
-# CareerCraft AI
-
+# AI-powered-resume-optimizer by karn 
 CareerCraft AI is an innovative project designed to assist job seekers in optimizing their resumes for Applicant Tracking Systems (ATS), tailoring their resumes to specific job descriptions, and providing key ATS keyword mentions in both the resume and job description. Additionally, CareerCraft AI features a job portal similar to Google Jobs, offering users access to job listings.
 
 ## Features
