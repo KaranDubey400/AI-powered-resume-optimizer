@@ -16,7 +16,7 @@ To use CareerCraft AI, follow these steps:
 2. Install the required libraries using pip:
    
    pip install -r requirements.txt
-   
+3. replace  credentials in the projecs  with your own 
 4. Run the Streamlit app:
    
    streamlit run main.py
